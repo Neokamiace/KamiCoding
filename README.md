@@ -1,2 +1,2 @@
 # KamiCoding
-Coding
+This is a test to Coding.
